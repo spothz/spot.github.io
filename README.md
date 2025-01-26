@@ -1,1 +1,2 @@
 # spot.github.io
+blog
